@@ -1,2 +1,13 @@
 # my-starter-project
-My first aurdino uno project where i connect LED, and button.
+My first simple aurdino uno project on Wokwi where i connect LED, and push-button.
+
+## 🤖 Features
+- Let LED blink when button is turned ON and OFF.
+
+## 🔧 Tech Stack
+- Arduino UNO
+- 220Ω Resistor
+- LED
+- Push-button 6mm
+
+
