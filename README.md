@@ -13,4 +13,6 @@ My first simple aurdino uno project on Wokwi where i connect LED, and push-butto
 ## 🔌 Hardware Setup
 - Wokwi.com
 - ![Breadboard Setup](docs/images/BreadboardSetup.png)
-- 
+
+## 👩‍💻 Firmware Code
+see code in firmware/src/main.cpp
