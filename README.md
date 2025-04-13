@@ -10,4 +10,7 @@ My first simple aurdino uno project on Wokwi where i connect LED, and push-butto
 - LED
 - Push-button 6mm
 
-
+## 🔌 Hardware Setup
+- Wokwi.com
+- ![Breadboard Setup](docs/images/breadboard setup.png)
+- 
